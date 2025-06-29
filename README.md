@@ -165,11 +165,6 @@ I'm always open to exciting collaborations in:
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/Akshat-66">
-    <img src="https://img.shields.io/badge/View%20My%20Activity-1D2671?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 
 
