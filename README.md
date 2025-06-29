@@ -110,6 +110,66 @@ React · TypeScript · Tailwind · Node.js<br><br>
 ---
 
 
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="mailto:akshatripathi.1@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/akshat-tripathi-33bb31346/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Akshat-66">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/Akshat--06/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+<a href="https://www.codechef.com/users/akshatripathi1">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+<a href="https://portfolio-git-main-akshat-tripathis-projects.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-1D2671?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Akshat-66/Akshat-66/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Akshat-66&theme=radical&hide_border=true&border_radius=5&card_width=800" />
 </p>
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Akshat-66&show_icons=true&count_private=true&hide_border=true&title_color=1D2671&icon_color=1D2671&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-66&layout=compact&hide_border=true&title_color=1D2671&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+
+---
+
+## 🤝 Open to Collaborate
+
+<div align="center">
+
+I'm always open to exciting collaborations in:
+
+- 💻 Full Stack Web Applications  
+- ⚙️ Backend APIs & Scalable Architecture  
+- 📊 Competitive Coding & DSA  
+- 🚀 Open Source & Hackathons  
+- 🧠 Tech That Solves Real Problems
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/Akshat-66">
+    <img src="https://img.shields.io/badge/View%20My%20Activity-1D2671?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+
+
