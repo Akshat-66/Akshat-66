@@ -108,3 +108,8 @@ React · TypeScript · Tailwind · Node.js<br><br>
 </div>
 
 ---
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akshat-66/Akshat-66/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
