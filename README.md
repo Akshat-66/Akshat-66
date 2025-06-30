@@ -1,4 +1,4 @@
-<!-- 🎯 Profile Banner -->
+<!-- 🎯 Profile Banner -->  
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Akshat%20Tripathi&fontSize=70&color=0:1D2671,100:C33764&fontColor=ffffff&stroke=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=40)
 
 <div align="center">
