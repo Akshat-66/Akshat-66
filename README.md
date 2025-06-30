@@ -12,6 +12,7 @@
 
 ---
 
+
 ## 🧠 About Me
 
 I'm a Full Stack Developer with a passion for solving real-world problems through code. I specialize in building scalable web applications using **JavaScript**, **React**, **Node.js**, and **MongoDB**.
