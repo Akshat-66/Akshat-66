@@ -78,37 +78,39 @@ I'm a **Full Stack Developer** focused on building scalable web apps using **Jav
 <b>♟️ Chess Game</b><br><br>
 **Real-time multiplayer chess** with validated moves.<br><br>
 **Tech:** Node · Express · Socket.IO · Chess.js<br><br>
-<a href="https://github.com/Akshat-66/Chess">🔗 GitHub</a> • <a href="https://akshatportfolio-sigma.vercel.app/">🌐 Live</a>
-</td>
+<a href="https://github.com/Akshat-66/Chess">🔗 GitHub</a> 
 
 </tr>
 </table>
-
-</div>
+/div>
 
 ---
 
 ## 🌐 **Let's Connect**
 
+<!-- Let's Connect (replace existing block) -->
 <div align="center">
-<a href="mailto:akshatripathi.1@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://www.linkedin.com/in/akshat-tripathi-33bb31346/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/Akshat-66">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://leetcode.com/u/Akshat--06/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
-<a href="https://www.codechef.com/users/akshatripathi1">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-</a>
-<a href="https://akshatportfolio-sigma.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-1D2671?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
+  <a href="mailto:akshatripathi.1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/akshat-tripathi-33bb31346/">
+    <img src="https://img.shields.io/badge/LinkedIn-1D2671?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Akshat-66">
+    <img src="https://img.shields.io/badge/GitHub-1D2671?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/u/Akshat--06/">
+    <img src="https://img.shields.io/badge/LeetCode-1D2671?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://www.codechef.com/users/akshatripathi1">
+    <img src="https://img.shields.io/badge/CodeChef-1D2671?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <a href="https://codeforces.com/profile/AKSHAT__06?graphType=all">
+    <img src="https://img.shields.io/badge/Codeforces-1D2671?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://akshatportfolio-sigma.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-1D2671?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </div>
 
 ---
@@ -123,17 +125,6 @@ I'm a **Full Stack Developer** focused on building scalable web apps using **Jav
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Akshat-66&show_icons=true&count_private=true&hide_border=true&title_color=1D2671&icon_color=1D2671&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats"/>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-66&layout=compact&hide_border=true&title_color=1D2671&text_color=c9d1d9&bg_color=0d1117" alt="Top languages"/>
 </div>
-
----
-
-## 🔥 Popular Repos
-
-- [SwiftHire](https://github.com/Akshat-66/swiftHire)  
-- [Shipment Tracker](https://github.com/Akshat-66/shipmentTracker)  
-- [AI Resume Builder](https://github.com/Akshat-66/Main_Pro_1/tree/main/ai_resume_generator)  
-- [Chess](https://github.com/Akshat-66/Chess)  
-- Full profile: [https://github.com/Akshat-66](https://github.com/Akshat-66)
-
 ---
 
 ## 🤝 **Open to Collaborate**
