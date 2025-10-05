@@ -83,17 +83,6 @@ React · Tailwind · Shadcn UI · Supabase · Clerk<br><br>
 <!-- Project 2 -->
 <td align="center" width="33%">
 
-<b>Developer Dashboard</b><br><br>
-Customizable dashboard to monitor projects and track metrics<br><br>
-<b>Tech Stack:</b><br>
-React · Vite · Tailwind CSS<br><br>
-<a href="#">🔗 GitHub</a> · <a href="#">🌐 Live</a>
-
-</td>
-
-<!-- Project 3 -->
-<td align="center" width="33%">
-
 <b>Shipment Tracker</b><br><br>
 Logistics dashboard to track shipments and manage orders<br><br>
 <b>Tech Stack:</b><br>
@@ -102,38 +91,13 @@ React · Next.js · Tailwind · Node · Express · MongoDB<br><br>
 
 </td>
 
-</tr>
-<tr>
-
-<!-- Project 4 -->
-<td align="center" width="33%">
-
-<b>LifeClock</b><br><br>
-Minimal time-tracker to visualize activity and focus time<br><br>
-<b>Tech Stack:</b><br>
-Next.js · Tailwind · TypeScript<br><br>
-<a href="#">🔗 GitHub</a> · <a href="#">🌐 Live</a>
-
-</td>
-
-<!-- Project 5 -->
+<!-- Project 3 -->
 <td align="center" width="33%">
 
 <b>AI Resume Builder</b><br><br>
 AI-powered resume tool with templates, editing and export features<br><br>
 <b>Tech Stack:</b><br>
 React · Tailwind · Strapi · Clerk · Gemini API<br><br>
-<a href="#">🔗 GitHub</a> · <a href="#">🌐 Live</a>
-
-</td>
-
-<!-- Project 6 -->
-<td align="center" width="33%">
-
-<b>Chess Game</b><br><br>
-Real-time multiplayer chess with validated moves<br><br>
-<b>Tech Stack:</b><br>
-Node · Express · Socket.IO · Chess.js<br><br>
 <a href="#">🔗 GitHub</a> · <a href="#">🌐 Live</a>
 
 </td>
@@ -187,9 +151,16 @@ Node · Express · Socket.IO · Chess.js<br><br>
 </div>
 ---
 
-## 🤝 **Open to Collaborate**
+## 🤝 Open to Collaborate
 
-I'm open to work on **Full Stack apps**, **Scalable APIs**, **DSA problem solving**, and **Open Source**.  
-If you'd like to collaborate, reach out via **email** or **LinkedIn**.
+<div align="center">
 
----
+I'm always open to exciting collaborations in:
+
+- 💻 Full Stack Web Applications  
+- ⚙️ Backend APIs & Scalable Architecture  
+- 📊 Competitive Coding & DSA  
+- 🚀 Open Source & Hackathons  
+- 🧠 Tech That Solves Real Problems
+
+<br>
