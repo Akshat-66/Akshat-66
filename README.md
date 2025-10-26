@@ -76,7 +76,7 @@ I enjoy turning ideas into working products and continuously push myself to lear
 Modern job portal with secure authentication and real-time features<br><br>
 <b>Tech Stack:</b><br>
 React · Tailwind · Shadcn UI · Supabase · Clerk<br><br>
-<a href="#">🔗 GitHub</a> · <a href="#">🌐 Live</a>
+<a href="https://github.com/Akshat-66/swiftHire">🔗 GitHub</a> · <a href="https://swift-hire-pink.vercel.app/">🌐 Live</a>
 
 </td>
 
@@ -87,7 +87,7 @@ React · Tailwind · Shadcn UI · Supabase · Clerk<br><br>
 Logistics dashboard to track shipments and manage orders<br><br>
 <b>Tech Stack:</b><br>
 React · Next.js · Tailwind · Node · Express · MongoDB<br><br>
-<a href="#">🔗 GitHub</a> · <a href="#">🌐 Live</a>
+<a href="https://github.com/Akshat-66/shipmentTracker-Backend">🔗 GitHub</a> · <a href="https://shipsy-frontend-two.vercel.app/">🌐 Live</a>
 
 </td>
 
@@ -98,7 +98,7 @@ React · Next.js · Tailwind · Node · Express · MongoDB<br><br>
 AI-powered resume tool with templates, editing and export features<br><br>
 <b>Tech Stack:</b><br>
 React · Tailwind · Strapi · Clerk · Gemini API<br><br>
-<a href="#">🔗 GitHub</a> · <a href="#">🌐 Live</a>
+<a href="https://github.com/Akshat-66/Main_Pro_1/tree/main/ai_resume_generator">🔗 GitHub</a> · <a href="https://main-pro-1.vercel.app/">🌐 Live</a>
 
 </td>
 
